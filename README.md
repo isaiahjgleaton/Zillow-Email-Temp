@@ -1,2 +1,2 @@
 # Zillow-Email-Temp
-Promotional Zillow Email HTML Template
+Promotional Zillow HTML Email Template
